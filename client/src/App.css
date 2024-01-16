@@ -1,0 +1,14 @@
+.taskcard{
+  padding: 10px 20px !important;
+  margin: 20px !important;
+}
+
+.completed{
+  text-decoration: line-through;
+  color: gray;
+}
+
+.tasktext{
+  font-size: medium;
+  font-weight: 500;
+}
